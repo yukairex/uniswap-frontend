@@ -1,5 +1,5 @@
 [build]
-  command = "touch build/index.html"
+  command = "mkdir build && touch build/index.html"
 
 # block some countries
 [[redirects]]
