@@ -1,4 +1,4 @@
-[[build]]
+[build]
   command = "echo 0"
 
 # block some countries
