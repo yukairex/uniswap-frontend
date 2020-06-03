@@ -1,5 +1,5 @@
 [build]
-  command = "echo 0"
+  command = "touch build/index.html"
 
 # block some countries
 [[redirects]]
