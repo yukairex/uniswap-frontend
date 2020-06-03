@@ -1,5 +1,5 @@
 [[build]]
-  command = ""
+  command = "echo 0"
 
 # block some countries
 [[redirects]]
