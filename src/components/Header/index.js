@@ -119,11 +119,10 @@ export default function Header() {
   return (
     <HeaderFrame>
       <MigrateBannerSmall>
-        <b>V2 is here!&nbsp;</b> <Link href="https://migrate.uniswap.exchange/">Migrate your liquidity&nbsp;</Link>or{' '}
-        <Link href="https://uniswap.exchange"> &nbsp;use V2 ↗</Link>
+        <b>DM Uniswaplus@Twitter to list your ERC20 tokens!</b>
       </MigrateBannerSmall>
       <MigrateBannerLarge>
-        <b>DM Uniswaplus@Twitter to list you ERC20 tokens!</b>
+        <b>DM Uniswaplus@Twitter to list your ERC20 tokens!</b>
       </MigrateBannerLarge>
       <HeaderSpan>
         <HeaderElement>
